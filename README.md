@@ -11,3 +11,8 @@ sample_1.bam
 sample_2.bam
 sample_n.bam
 ```
+
+
+Script for plotting the obtained results (comming soon).
+
+This script is written in R and reproduces the main plots of the study "Multiplexed target enrichment of coding and  non-coding transcriptomes  enables studying Candidaspp.infections from human derived samples" by Hovhannisyan et al, 2021.
