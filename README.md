@@ -1,5 +1,5 @@
 # Probe_enrichment
-Script for counting human and fungal reads
+read_count.py - script for counting human and fungal reads
 
 
 This script counts the number of reads/alignments which are mapped to human and C. albicans, when sequencing combined 
@@ -13,6 +13,6 @@ sample_n.bam
 ```
 
 
-Script for plotting the obtained results (comming soon).
+plot_data - script for plotting the obtained results (comming soon).
 
 This script is written in R and reproduces the main plots of the study "Multiplexed target enrichment of coding and  non-coding transcriptomes  enables studying Candidaspp.infections from human derived samples" by Hovhannisyan et al, 2021.
